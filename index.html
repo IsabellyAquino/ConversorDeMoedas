@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Conversor de Moedas</title>
+
+            <link rel="stylesheet" href="./style.css" />
+
+            <!-- Referencie o arquivo script.js -->
+            <script src="./script.js"></script>
+        
+
+        </head>
+
+        <body>
+
+            <div class="container">
+                <h1 class="page-title">
+                    Conversor de moedas
+                </h1>
+            </div>
+        
+            <div style="margin-top: 50px;">
+                <form id="conversorForm" style="display: inline-grid;">
+                  <div style="display: inline-flex;margin-bottom: 15px;">
+                    <div style="text-align: right;width: 100%;">
+                      <label style="margin-right: -25px;" for="nome">Nome:</label>
+                    </div>
+            
+                    <div style="position: relative;width: 100%;">
+                      <input type="text" id="nome" name="nome" required>
+                    </div>
+                  </div>
+            
+                  <div style="display: inline-flex;">
+                    <div style="text-align: right;width: 100%;">
+                      <label for="valor">Valor em dolar a converter:</label>
+                    </div>
+            
+                    <div style="width: 100%;display: inline-flex;margin-right: -107px;">
+                      <div style="width: 50%;margin-left: 10px;">
+                        <input style="margin-right: 50px;" type="number" id="valor" name="valor" step="0.01" required>
+                      </div>
+                      <div style="width: 50%">
+                        <button type="button" onclick="converterMoeda()">Converter</button>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+              </div>
+        
+            <a href="#">
+                <img style="margin-top: 50px;" 
+                src="https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Convers%C3%A3o+1.png" alt="Alura">
+            </a>
+
+             <!-- Referencie o arquivo script.js -->
+            <script src="./script.js"></script>
+
+        </body>
+
+            
+    </html>
