@@ -5,8 +5,8 @@ O conversor de moedas é site onde você pode converter  valor de moeda em Dolar
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -20,14 +20,17 @@ O conversor de moedas é site onde você pode converter  valor de moeda em Dolar
   <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview2.png" width="100%">
+</p>
+
 ## 💻 Projeto
 
 O principal objetivo deste projeto é fornecer uma solução básica para a conversão de moeda em Dolar para Real. É uma ferramenta que permite aos usuários:
 
 - Inserir informações como seu nome.
 - Inserir o valor desejado para conversão.
-- Pesquisar agendamentamento por apartamento.
-- E em tela recebe um aviso contendo seu nome inserido e o valor em Dolar convertido para Real.
+- E em tela após cliclar no botão de conversõa recebe um aviso, contendo seu nome inserido e o valor em Dolar convertido para Real.
 
 ## 🚀 Tecnologias
 
