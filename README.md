@@ -1,7 +1,7 @@
 <h1 align="center"> Conversor de moedas </h1>
 
 <p align="center">
-O conversor de moedas é site onde você pode converter  valor de moeda em Dolar para Real. <br/>
+O conversor de moedas é site onde você pode converter o valor de moeda em Dolar para Real. <br/>
 </p>
 <p align="center"> Para acessar o projeto clique no link a seguir: https://isabellyaquino.github.io/ConversorDeMoedas/ </p>
 
@@ -18,11 +18,11 @@ O conversor de moedas é site onde você pode converter  valor de moeda em Dolar
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="preview tela incial" src=".github/preview.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview2.png" width="100%">
+  <img src=".github/preview2.png" width="100%">
 </p>
 
 ## 💻 Projeto
